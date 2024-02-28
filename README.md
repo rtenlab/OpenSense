@@ -16,11 +16,11 @@
 
 __NOTE:__ Please reference our OpenSense Paper that was published in RTAS22.
 
-@inproceedings{inproceedings,
-author = {Bukhari, Abdulrahman and Hosseinimotlagh, Seyedmehdi and Kim, Hyoseung},
-year = {2022},
-month = {08},
-pages = {61-70},
-title = {An Open-World Time-Series Sensing Framework for Embedded Edge Devices},
-doi = {10.1109/RTCSA55878.2022.00013}
-}
+    @inproceedings{inproceedings,
+        author = {Bukhari, Abdulrahman and Hosseinimotlagh, Seyedmehdi and Kim, Hyoseung},
+        year = {2022},
+        month = {08},
+        pages = {61-70},
+        title = {An Open-World Time-Series Sensing Framework for Embedded Edge Devices},
+        doi = {10.1109/RTCSA55878.2022.00013}
+    }
